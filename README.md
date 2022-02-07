@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderwyx
+- 👋 Hi, I’m @coderWxx
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m just a nobody coder  
